@@ -1,0 +1,32 @@
+Financeiro de Empresa
+
+1. Contas a Pagar
+- Funcionário
+Matricula
+Nome
+Filhos
+Salario
+Incentivo de Vendas/Comissão
+Salario Familia
+FGTS (8%)
+Vale Transporte (6%)
+- Impostos
+COFINS (3%)
+PIS (0,65%)
+- Contas
+Eletricidade
+Água
+Aluguel
+Seguranca
+Outros
+- Listar
+
+2. Contas a Receber
+
+- Cadastrar Depósito
+Nome do Depósito
+Valor
+- Listar
+
+3. Balanço Geral
+Valor Recebido - Valor Gasto
